@@ -1,0 +1,9 @@
+Type;Source;Product;Measure
+Total Asset;Market;Bonds;20
+Total Asset;Market;Loans;40
+Total Asset;Central Bank;Bonds;15
+Total Asset;Central Bank;Loans;15
+Encumbered Asset;Market;Bonds;-15
+Encumbered Asset;Market;Loans;-20
+Encumbered Asset;Central Bank;Bonds;-5
+Encumbered Asset;Central Bank;Loans;-5
